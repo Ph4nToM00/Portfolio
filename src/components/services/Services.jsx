@@ -16,19 +16,15 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas.</p>
+              <p>Website design Illustrator, Figma.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas.</p>
+              <p>Logo, Banner creation, Photoshop.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas.</p>
+              <p>Visual and video editing for ads or stories on social networks, Final Cut Pro</p>
             </li>
           </ul>
         </article>
@@ -41,31 +37,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas.</p>
+              <p>Website creation, Wordpress, HTML CSS.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas.</p>
+              <p>E-commerce website creation, PHP, ReactJS, Symphonie ...</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas.</p>
+              <p>Creation of dropshipping website, shopify.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas.</p>
+              <p>Application creation, React Native.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas.</p>
+              <p>Database management, MongoDB, MySQL.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas.</p>
+              <p>API creation.</p>
             </li>
           </ul>
         </article>
@@ -78,19 +70,19 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas.</p>
+              <p>Vulnerability scanning, bugbounty.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas.</p>
+              <p>Site scan, Hawkscan.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas.</p>
+              <p>Cybersecurity solution creation, Python.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas.</p>
+              <p>Open Source Information Retrieval (OSINT), Peek-A-Who.</p>
             </li>
           </ul>
         </article>

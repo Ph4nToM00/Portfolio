@@ -34,8 +34,11 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus, aut. Impedit error repellendus debitis, ratione amet beatae a. Molestias debitis incidunt quia itaque, obcaecati a tempora natus nihil minus qui.
+          Je m'appelle Tristan, j'ai 24 ans et je suis un passionné d'informatique. J'ai commencé en autodidacte, dans le développement web et la cybersécurité, j'ai voulu ensuite faire des études liées à ce domaine, j'ai commencé en réseau et en télécommunication, pour revenir au monde du développement web, je souhaiterais à terme de mes études être pentester en cybersécurité. 
           </p> 
+          <p>
+          My name is Tristan, I'm 24 years old and I'm passionate about computers. I started as a self-taught person, in web development and cybersecurity, then I wanted to study related to this field, I started in network and telecommunication, to come back to the world of web development, I would like to be a cybersecurity pentester at the end of my studies. 
+          </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk !</a>
         </div>
       </div>
